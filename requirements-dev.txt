@@ -1,0 +1,7 @@
+pytest>=6.0.0
+pytest-cov>=2.0.0
+black>=21.0
+isort>=5.0.0
+mypy>=0.800
+flake8>=3.9.0
+tox>=3.24.0
